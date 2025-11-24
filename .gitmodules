@@ -1,0 +1,3 @@
+[submodule "docs/krawl_io"]
+	path = docs/krawl_io
+	url = https://github.com/feileberlin/krawl_io
